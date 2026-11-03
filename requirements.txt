@@ -1,0 +1,9 @@
+# Core libraries used in the Olist E-Commerce Data Analysis project
+pandas
+numpy
+matplotlib
+seaborn
+
+# Jupyter Notebook environment
+jupyter
+ipykernel
